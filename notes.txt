@@ -1,0 +1,52 @@
+data analylist
+
+provide data insights
+
+
+
+
+
+
+data analytics :
+
+manual:
+
+tools:
+ 
+powerbi
+tablue
+alterX
+
+
+big data technologies
+>>
+big data architectures 
+>>
+hadoop  1.0,2.0,3.0
+spark (batch prcessing and stream processing )
+apache flink
+(batch and 
+
+
+cloud era
+
+
+
+
+cql
+hql
+
+
+
+>>
+
+dvc
+
+data version control
+
+
+
+>>
+DecisionTreeClassifier
+decision tree regressor
+
